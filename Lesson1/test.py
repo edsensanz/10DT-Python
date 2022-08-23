@@ -1,4 +1,7 @@
-# declaration of varibles
+# E G Wisnewski
+# Varibles
+
+# Declaration of varibles
 
 base = 5.4
 height = 3
@@ -9,5 +12,5 @@ height = 3
 
 # Print the result to screen
 
-Print(base * height)/2
+print(base * height)/2
 
